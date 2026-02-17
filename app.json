@@ -22,7 +22,7 @@
       },
       "WEBHOOK_URL": {
         "description": "Replace <appname> with your Heroku application name. This will ensure the correct webhook URLs are being shown in n8n.",
-        "value": "https://pic-n8n.herokuapp.com"
+        "value": "https://pic-n8n-0898d408ff13.herokuapp.com"
       },
       "DB_POSTGRESDB_SSL_REJECT_UNAUTHORIZED": {
         "description": "SSL is required to connect to Postgres on Heroku",
